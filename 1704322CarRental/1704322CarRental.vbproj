@@ -158,7 +158,7 @@
     <Content Include="image\Toyota Prius 2nd Generation.jpg" />
     <Content Include="Product.aspx" />
     <Content Include="Style.css" />
-    <Content Include="WebForm2.aspx" />
+    <Content Include="ShoppingCart.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="HtmlPage1.html" />
     <Content Include="image\logo.jpg" />
@@ -267,11 +267,11 @@
       <DependentUpon>Product.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="WebForm2.aspx.designer.vb">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="ShoppingCart.aspx.designer.vb">
+      <DependentUpon>ShoppingCart.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm2.aspx.vb">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="ShoppingCart.aspx.vb">
+      <DependentUpon>ShoppingCart.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>
